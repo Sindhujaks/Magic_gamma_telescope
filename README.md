@@ -22,12 +22,6 @@ The project aims to develop and evaluate machine learning models that can predic
 - **K-Nearest Neighbors (KNN)**
 - **Naive Bayes**
 
-### **Installation**:
-To get started, install the required libraries using the following command:
-
-```bash
-pip install pandas numpy scikit-learn
-
 ### **License**:
 This project is for educational and research purposes. Please refer to the project documentation and code for further details on usage rights.
 
